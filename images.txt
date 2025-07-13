@@ -1,2 +1,1 @@
-unityci/editor:2021.3.33f1-windows-mono-3
-unityci/editor:windows-2021.3.33f1-android-3.1.0
+game.ci/unity:2021.3.33f1-windows-mono-3.1.0
