@@ -1,1 +1,1 @@
-game.ci/unity:2021.3.33f1-windows-mono-3.1.0
+game.ci/unity:2021.3.33f1-base-3
