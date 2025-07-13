@@ -1,1 +1,1 @@
-game.ci/unity:2021.3.33f1-base-3
+unityci/editor:ubuntu-2021.3.45f1-windows-mono-3
