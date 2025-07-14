@@ -1,2 +1,1 @@
-unityci/hub:windows-3.0
 unityci/base:3.1.0
