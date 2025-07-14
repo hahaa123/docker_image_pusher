@@ -1,1 +1,1 @@
-unityci/hub:windows-latest
+unityci/hub:windows-3.0
