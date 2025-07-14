@@ -1,4 +1,1 @@
-unityci/editor:ubuntu-2021.3.45f1-windows-mono-3
-kasmweb/unityhub:1.17.0-rolling-daily
-unityci/editor:2021.3.45f1-windows-mono-3
 unityci/hub:windows-latest
